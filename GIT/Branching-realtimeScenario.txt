@@ -13,7 +13,7 @@ Let me assume that we already have a GitHub repository.
 
 And you can see we have only the “master” branch which is created by default.
 
-Setting Remote and Local Branches
+Setting Remote and Local Branches -
 
 Branch on Remote
 
