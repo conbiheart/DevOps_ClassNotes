@@ -1,4 +1,4 @@
-What is the solution when :
+What is the solution when :-
 
 - A developer has to manage or track changes to the code.
 - When multiple developers have to work simutenously and contribute to final code
